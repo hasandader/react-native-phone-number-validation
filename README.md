@@ -11,11 +11,11 @@ npm install react-native-phone-number-validation
 ## Usage
 
 ```js
-import { multiply } from 'react-native-phone-number-validation';
+import { PhoneInput } from 'react-native-phone-number-validation';
 
 // ...
 
-const result = await multiply(3, 7);
+<PhoneInput />
 ```
 
 ## Contributing

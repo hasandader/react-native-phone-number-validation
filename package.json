@@ -1,6 +1,6 @@
 {
   "name": "react-native-phone-number-validation",
-  "version": "0.1.0",
+  "version": "0.1.10",
   "description": "Phone number validation for test purposes",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -41,14 +41,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EngHasan/react-native-phone-number-validation.git"
+    "url": "git+https://github.com/hasandader/react-native-phone-number-validation.git"
   },
-  "author": "developer <hasandader@gmail.com> (https://github.com/EngHasan)",
+  "author": "developer <hasandader@gmail.com> (https://github.com/hasandader)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EngHasan/react-native-phone-number-validation/issues"
+    "url": "https://github.com/hasandader/react-native-phone-number-validation/issues"
   },
-  "homepage": "https://github.com/EngHasan/react-native-phone-number-validation#readme",
+  "homepage": "https://github.com/hasandader/react-native-phone-number-validation#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
